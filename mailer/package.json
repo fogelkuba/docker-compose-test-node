@@ -1,0 +1,13 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "main": "mailer.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node mailer.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
